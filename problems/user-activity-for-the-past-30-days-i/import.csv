@@ -1,0 +1,12 @@
+id,user_id,session_id,activity_date,activity_type
+1,1,1,2019-07-20,open_session
+2,1,1,2019-07-20,scroll_down
+3,1,1,2019-07-20,end_session
+4,2,4,2019-07-20,open_session
+5,2,4,2019-07-21,send_message
+6,2,4,2019-07-21,end_session
+7,3,2,2019-07-21,open_session
+8,3,2,2019-07-21,send_message
+9,3,2,2019-07-21,end_session
+10,4,3,2019-06-25,open_session
+11,4,3,2019-06-25,end_session

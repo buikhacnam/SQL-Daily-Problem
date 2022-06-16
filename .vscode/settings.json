@@ -12,6 +12,19 @@
             "database": "girrafe",
             "username": "root",
             "password": "mrbui123456"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "schedule",
+            "database": "schedule",
+            "username": "root",
+            "password": "mrbui123456"
         }
     ]
 }
